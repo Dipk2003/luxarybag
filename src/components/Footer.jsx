@@ -30,7 +30,7 @@ const Footer = () => {
           {/* Brand */}
           <div>
             <span className="text-2xl font-bold tracking-tight">
-              TheBag<span className="text-yellow-600">Void</span>
+              LUXE<span className="text-yellow-600">BAG</span>
             </span>
             <p className="mt-4 text-gray-400 text-sm leading-relaxed">
               Premium luxury bags crafted with excellence. Your style, our passion.
@@ -104,7 +104,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400 text-sm">
-          <p>&copy; {new Date().getFullYear()} dipanshudev.com || All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} LuxeBag. All rights reserved.</p>
         </div>
       </div>
     </footer>

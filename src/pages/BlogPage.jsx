@@ -20,7 +20,7 @@ const BlogPage = () => {
   return (
     <>
       <Helmet>
-        <title>Blog - Style Guide & Fashion Tips | thebagvoid</title>
+        <title>Blog - Style Guide & Fashion Tips | LuxeBag</title>
         <meta name="description" content="Explore luxury bag styling tips, fashion trends, and care guides from LuxeBag experts." />
       </Helmet>
 

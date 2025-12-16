@@ -50,7 +50,7 @@ const ShopPage = () => {
   return (
     <>
       <Helmet>
-        <title>Shop Luxury Bags - Premium Designer Handbags Online | thebagvoid</title>
+        <title>Shop Luxury Bags - Premium Designer Handbags Online | LuxeBag</title>
         <meta name="description" content="Browse our complete collection of luxury bags. Filter by category, price, and style. Free delivery, COD available, easy returns on all products." />
       </Helmet>
 

@@ -8,7 +8,7 @@ const DeliveryReturnsPage = () => {
   return (
     <>
       <Helmet>
-        <title>Delivery & Returns Policy - thebagvoid</title>
+        <title>Delivery & Returns Policy - LuxeBag</title>
         <meta name="description" content="Learn about LuxeBag's delivery and returns policy. Free delivery across India, easy 7-day returns." />
       </Helmet>
 

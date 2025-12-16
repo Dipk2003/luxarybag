@@ -20,7 +20,7 @@ const ReviewsPage = () => {
   return (
     <>
       <Helmet>
-        <title>Customer Reviews - thebagvoid</title>
+        <title>Customer Reviews - LuxeBag</title>
         <meta name="description" content="Read what our customers say about our luxury bags. Verified reviews from real customers." />
       </Helmet>
 

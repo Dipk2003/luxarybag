@@ -101,7 +101,7 @@ const ProductDetailPage = () => {
   return (
     <>
       <Helmet>
-        <title>{product.name} - thebagvoid</title>
+        <title>{product.name} - LuxeBag by Raiya</title>
         <meta name="description" content={product.description} />
       </Helmet>
 

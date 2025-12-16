@@ -11,7 +11,7 @@ const BlogPostPage = () => {
   return (
     <>
       <Helmet>
-        <title>Blog Post - thebagvoid</title>
+        <title>Blog Post - LuxeBag</title>
       </Helmet>
 
       <div className="min-h-screen">

@@ -36,8 +36,8 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center flex-col md:flex-row md:gap-2 group">
             <span className="text-xl md:text-2xl font-bold tracking-tight uppercase relative">
-              TheBag
-              <span className="text-yellow-600"> Void</span>
+              LuxeBag 
+              <span className="text-yellow-600"> by Raiya</span>
               <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-yellow-600 transition-all duration-300 group-hover:w-full"></span>
             </span>
           </Link>
