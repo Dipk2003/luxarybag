@@ -7,7 +7,7 @@ const PrivacyPolicyPage = () => {
   return (
     <>
       <Helmet>
-        <title>Privacy Policy - LuxeBag</title>
+        <title>Privacy Policy - thebagvoid</title>
         <meta name="description" content="Read LuxeBag's privacy policy. Learn how we collect, use, and protect your personal information." />
       </Helmet>
 

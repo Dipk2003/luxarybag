@@ -7,7 +7,7 @@ const TermsPage = () => {
   return (
     <>
       <Helmet>
-        <title>Terms & Conditions - LuxeBag</title>
+        <title>Terms & Conditions - thebagvoid</title>
         <meta name="description" content="Read LuxeBag's terms and conditions for using our website and purchasing products." />
       </Helmet>
 

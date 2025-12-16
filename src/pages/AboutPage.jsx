@@ -31,7 +31,7 @@ const AboutPage = () => {
   return (
     <>
       <Helmet>
-        <title>About Us - Premium Luxury Bags | LuxeBag</title>
+        <title>About Us - Premium Luxury Bags | thebagvoid</title>
         <meta name="description" content="Learn about LuxeBag's commitment to quality, craftsmanship, and customer satisfaction. Discover our story and values." />
       </Helmet>
 
@@ -40,7 +40,7 @@ const AboutPage = () => {
 
         <div className="container mx-auto px-4 py-12">
           <div className="max-w-4xl mx-auto">
-            <h1 className="text-3xl md:text-4xl font-bold mb-6">About LuxeBag</h1>
+            <h1 className="text-3xl md:text-4xl font-bold mb-6">About thebagvoid</h1>
             
             <div className="prose prose-lg max-w-none mb-12">
               <p className="text-gray-700 leading-relaxed mb-4">
@@ -67,7 +67,7 @@ const AboutPage = () => {
             <div className="bg-yellow-50 p-8 rounded-2xl text-center">
               <h2 className="text-2xl font-bold mb-4">Our Promise</h2>
               <p className="text-gray-700 leading-relaxed">
-                Every LuxeBag purchase comes with our guarantee of quality, authenticity, and satisfaction. We're here to ensure your shopping experience is as luxurious as the bags we offer.
+                Every thebagvoid purchase comes with our guarantee of quality, authenticity, and satisfaction. We're here to ensure your shopping experience is as luxurious as the bags we offer.
               </p>
             </div>
           </div>

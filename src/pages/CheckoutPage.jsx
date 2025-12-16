@@ -81,7 +81,7 @@ const CheckoutPage = () => {
     return (
       <>
         <Helmet>
-          <title>Shopping Cart - LuxeBag by Raiya</title>
+          <title>Shopping Cart - thebagvoid</title>
         </Helmet>
         <div className="min-h-screen">
           <Header />
@@ -101,7 +101,7 @@ const CheckoutPage = () => {
   return (
     <>
       <Helmet>
-        <title>Checkout - LuxeBag by Raiya</title>
+        <title>Checkout - thebagvoid</title>
       </Helmet>
 
       <div className="min-h-screen pb-20 md:pb-0">

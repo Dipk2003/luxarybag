@@ -30,7 +30,7 @@ const TrackOrderPage = () => {
   return (
     <>
       <Helmet>
-        <title>Track Order - LuxeBag by Raiya</title>
+        <title>Track Order - thebagvoid</title>
       </Helmet>
       <div className="min-h-screen">
         <Header />

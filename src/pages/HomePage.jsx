@@ -62,7 +62,7 @@ const HomePage = () => {
   return (
     <>
       <Helmet>
-        <title>LuxeBag by Raiya - Premium Bridal & Party Clutches</title>
+        <title>thebagvoid - Premium Bridal & Party Clutches</title>
         <meta name="description" content="Shop premium luxury bags, bridal clutches, and designer handbags. 8.9k+ followers on Instagram. Free delivery across India." />
       </Helmet>
 
@@ -356,8 +356,8 @@ const HomePage = () => {
               <div className="inline-flex items-center justify-center p-3 bg-gradient-to-r from-purple-500 to-pink-500 rounded-full text-white mb-6">
                  <Instagram className="w-6 h-6" />
               </div>
-              <h2 className="text-3xl md:text-5xl font-bold mb-4">@onli.nebags07</h2>
-              <p className="text-gray-600 mb-10">Join our 8.9k+ followers on Instagram</p>
+              <h2 className="text-3xl md:text-5xl font-bold mb-4">@thebagvoid</h2>
+              <p className="text-gray-600 mb-10">Join our 88.7k+ followers on Instagram</p>
            </motion.div>
 
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-2 md:gap-4">
